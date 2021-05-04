@@ -1,2 +1,2 @@
-# Gym
-Landing page of Gym
+# Rock Paper Scissors
+  Game
