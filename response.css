@@ -1,0 +1,22 @@
+.options{
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+.winner{
+    font-size: 30px;
+    margin-bottom:10%;
+}
+.player-hand , .computer-hand{
+    height: 100px;
+    width: 110px;
+    margin: 0px 28px;
+}
